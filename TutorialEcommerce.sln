@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialEcommerce.Web", "TutorialEcommerce.Web\TutorialEcommerce.Web.csproj", "{7BB37916-D01D-4007-BA1D-6EBA979351A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialEcommerce.Web.Tests", "TutorialEcommerce.Web.Tests\TutorialEcommerce.Web.Tests.csproj", "{90CCA00B-F550-49B3-BAE2-3A2A07D46F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB37916-D01D-4007-BA1D-6EBA979351A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB37916-D01D-4007-BA1D-6EBA979351A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB37916-D01D-4007-BA1D-6EBA979351A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB37916-D01D-4007-BA1D-6EBA979351A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CCA00B-F550-49B3-BAE2-3A2A07D46F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CCA00B-F550-49B3-BAE2-3A2A07D46F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CCA00B-F550-49B3-BAE2-3A2A07D46F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CCA00B-F550-49B3-BAE2-3A2A07D46F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06893AE4-64D7-437D-92C3-43657614B3CB}
+	EndGlobalSection
+EndGlobal
